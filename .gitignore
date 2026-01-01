@@ -1,0 +1,4 @@
+.claude
+venv
+scraper_state.pkl
+scraper.log
