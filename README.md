@@ -2,7 +2,9 @@
 ## Executive Business Intelligence Report
 
 **Analysis Date:** January 1, 2026
+
 **Data Source:** qarabazar.az (25 pages, 625 validated listings)
+
 **Market Coverage:** Bakı and surrounding regions
 
 ---
